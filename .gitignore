@@ -1,0 +1,6 @@
+aqui se ignoraran los archivos que se mencionen al momento de subir el proyecto en git
+.env
+
+node_modules
+
+dist
